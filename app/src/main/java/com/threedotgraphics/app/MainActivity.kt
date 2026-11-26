@@ -11,7 +11,6 @@ import android.webkit.WebChromeClient
 import android.webkit.WebView
 import android.webkit.WebViewClient
 import android.widget.Toast
-import android.app.Activity
 import androidx.webkit.WebViewAssetLoader
 import java.io.File
 import java.io.FileOutputStream
